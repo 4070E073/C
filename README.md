@@ -3,7 +3,6 @@
 
 > * Hello JavaScript!
 ...
-
 <!doctype html> 
 <html>
   <head>
