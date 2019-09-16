@@ -1,0 +1,30 @@
+#include"stdio.h"
+#include"stdlib.h" 
+
+
+ std 為標準的意思
+
+ io 為input/output 意思
+ lib 為library 意思
+ 
+
+ 字元 char = 1byte = 8bit
+
+例: char x; 開1byte給x or char A[10]; 開1*10byte給A  
+   
+其他的依此類推
+
+短整數 short = 2byte = 16bit
+
+整數 int = 4byte = 32bit
+
+長整數 double = 8byte = 64bit
+
+
+
+宣告主函數
+
+int main(void)
+宣告主函數(main)為整數(int)，設定輸入值為空(void)
+
+筆記本有更多
