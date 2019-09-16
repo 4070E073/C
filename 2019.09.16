@@ -25,6 +25,6 @@
 宣告主函數
 
 int main(void)
-宣告主函數(main)為整數(int)，設定輸入值為空(void)
+宣告主函數(main)輸出為整數(int)，設定輸入值為空(void)
 
 筆記本有更多
